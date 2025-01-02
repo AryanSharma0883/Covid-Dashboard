@@ -107,7 +107,7 @@ Ensure the data used in the dashboard includes the following columns:
 
 Have questions or suggestions? Feel free to open an issue or contact me directly:
 
-- GitHub: [@AryanSharma0883](https://github.com/your-username)
+- GitHub: [@AryanSharma0883](https://github.com/AryanSharma0883)
 
 ---
 
